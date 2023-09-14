@@ -1,0 +1,9 @@
+//Overview: scale 2.30, pos_x -858, pos_y 1241
+
+"de_wallbang"
+{
+	"material"	"overviews/de_wallbang"
+	"pos_x"		"-858"
+	"pos_y"		"1241"
+	"scale"		"2.30"
+}

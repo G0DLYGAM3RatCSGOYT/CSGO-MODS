@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "1"
+	$bumpmap "models/weapons/v_models/c4/c4"	
+
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"      	"[2 10 5]"
+	"$phongtint" 		"[3 1 .25]"
+	"$phongalbedoboost" "100"
+
+	
+	"$envmap" "env_cubemap"
+	"$envmaptint" 		"[2.4 1.4 .2]"
+	"$basemapalphaphongmask" "1"
+}
+
+

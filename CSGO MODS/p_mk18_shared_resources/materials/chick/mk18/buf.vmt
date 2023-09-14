@@ -1,0 +1,34 @@
+VertexLitGeneric
+{
+	$basetexture 			"chick/mk18/buf/d"
+	$bumpmap 				"chick/mk18/buf/n"
+	$phongexponenttexture		"chick/mk18/buf/e"
+
+
+	$color "[0.56 0.56 0.56]"
+	$color2 "[0.93 0.93 0.93]"
+
+	"$envmap" "chick/mk18/share/shinydull"
+	$basealphaenvmapmask 1
+	$envmaptint "[0.002 0.002 0.002]" //0.006
+	$envmapfresnel 1
+	$envmaplightscale 1
+
+	$phong 1
+	$phongfresnelranges "[0.79 0.9 1]"
+	$phongalbedotint 1
+	$phongboost 0.75
+//	$phongexponent 45
+
+	$phongalbedoboost 50
+
+	"$rimlight"			"1"
+	"$rimlightexponent"			"40"
+	"$rimlightboost"			"0.1"
+	"$rimmask"		1
+	$no_draw		0
+
+	$phongwarptexture "chick/mk18/share/metal"
+
+
+}                        

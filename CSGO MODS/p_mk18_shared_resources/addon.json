@@ -1,0 +1,16 @@
+{
+	"name": "[Modern Warfare II Unofficial] MK18 - Required Resources",
+	"authors":
+	[
+		{
+			"name": "Tayay9", 
+			"social": "https://steamcommunity.com/profiles/76561198062277014/", 
+			"role": "Assets porting / Animation edits / Texs&VMT / Particles edit / HUD Icons / Addon / Sound mixing"
+		},
+		{
+			"name": "Special Thanks ", 
+			"role": "'Scobalula' for Greyhound, 'Ez4Cyka' for providing newest assets"
+		}
+	],
+	"replacement": "M4A1-S"
+}
